@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "pythonPath": "C:\\Users\\cmk14002\\Downloads\\KuwanaTaisei\\TimeData_course_reports\\venv\\Scripts\\python.exe"
+        }
+    ]
+}
