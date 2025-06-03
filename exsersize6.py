@@ -1,5 +1,5 @@
 ##### Exercise(6) example (改良版)
-##### (c) G.Tanaka @ NITech + 改変 by ChatGPT
+##### (c) G.Tanaka @ NITech + 改変
 
 import numpy as np
 import matplotlib.pyplot as plt
